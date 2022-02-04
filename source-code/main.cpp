@@ -43,8 +43,8 @@ int main(int argc, char *argv[]) {
     }
 
     graph g;
-    g.read_graph_weighted(filename);
-    // g.read_graph(filename);
+    // g.read_graph_weighted(filename);
+    g.read_graph(filename);
 
     if(algo == "GEN_QUERY") {
         ifstream infile("data/" + filename + ".query");
