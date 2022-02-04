@@ -5,7 +5,7 @@
 All of the datasets used in the paper are publicly available at:
 https://snap.stanford.edu/data/
 
-dblp_weighted is given as an example
+a smaller dataset DBLP is given as an example
 
 ## Single source experiments
 
